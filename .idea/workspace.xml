@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d1445c6c-8097-40fe-b5f8-f9b80ea22d4c" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Myachin/anal1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Myachin/anal1.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Myachin/cleaning.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Myachin/cleaning.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cleaning.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Myachin/conf1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Myachin/conf1.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,7 +31,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;Anton&quot;,
     &quot;last_opened_file_path&quot;: &quot;C:/Users/Антон/Documents/GitHub/dano/Myachin&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;
   }
@@ -41,6 +41,7 @@
       <recent name="C:\Users\Антон\Documents\GitHub\dano\Myachin" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Антон\Documents\GitHub\dano\products" />
       <recent name="C:\Users\Антон\Documents\GitHub\dano\Myachin" />
     </key>
   </component>
